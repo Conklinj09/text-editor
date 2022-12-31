@@ -32,7 +32,7 @@ Meg Meyers aka one of the best TA's ever!
 
 * npm i          --this command installs all of the files needed for program to work.
 * npm run build  --this command runs all of the newly installed programs that were downloaded and unpacked from the previous command.
-* npm run develop --this command runs all programs in adeveloper environment now that everything has been downloaded, installed, and unpacked.
+* npm run start --this command runs all programs in a developer environment now that everything has been downloaded, installed, and unpacked.
 
 # Questions:
 
